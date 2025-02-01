@@ -22,10 +22,15 @@
     <section>
         <h2>Contact Us</h2>
         <form>
-            <input type="text" name="name" placeholder="Your Name" required>
-            <input type="email" name="email" placeholder="Your Email" required>
+            <fieldset>
+                <legend>Personal Information</legend>
+                <label for="name">name:</label>
+                <input type="text" name="name" placeholder="Your Name" required>
+                <label for="email">email:</label>
+                <input type="email" name="email" placeholder="Your Email" required>
+            </fieldset>
             <textarea name="review" rows="4" placeholder="Your Review" required></textarea>
-            <button type="submit">Submit</button>
+            <input type="submit" value="Submit">        
         </form>
     </section>
     <footer>
