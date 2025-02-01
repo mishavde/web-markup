@@ -1,0 +1,5 @@
+Student name: Misha van den Ende 
+Student number: 713824
+Student class: inf1a
+GitHub Repository: https://github.com/mishavde/web-markup
+GitHub Pages URL: https://github.com/mishavde/web-markup.git
